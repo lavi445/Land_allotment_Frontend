@@ -17,7 +17,7 @@ This repository is for the frontend development of the Land Allotment website. T
 
 ### **Bhawana Sharma**
 - [ ] **About Us Page**: Design a page that provides an overview of the company, its vision, and mission.
-- [ ] **Header**: Develop a consistent and responsive navigation bar for the website.
+- [x] **Header**: Develop a consistent and responsive navigation bar for the website.
 - [ ] **Footer**: Implement a footer with essential links and contact details.
 
 ---
