@@ -93,3 +93,44 @@ header{
 .bottom-header nav ul li a:hover::after {
     width: 100%; /* Full width underline on hover */
 }
+
+
+
+
+
+/*Footer styling*/
+footer{
+    background-color: rgb(2, 29, 53);
+    width:100%;
+    height:fit-content;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    bottom:0;
+    left:0;
+    justify-content: space-between;
+    padding:10px 40px;
+}
+
+.footer-logo{
+    display:flex;
+    align-items: center;
+    gap:5px;
+    color:white;
+}
+.footer-logo img{
+    width:clamp(3.2rem, 5.5vw, 7rem);
+    height:clamp(3.2rem, 5.5vw, 7rem);
+}
+.footer-left , .footer-middle, .footer-right  h3 , a{
+    font-weight:400;
+    color:rgb(234, 234, 234);
+    transition: all ease 1s;
+    font-size: clamp(0.5rem, 2vw, 0.8rem);
+}
+.footer-right h3{
+    font-size: 0.5rem;
+}
+.footer-left a:hover ,.footer-middle a:hover{
+    text-decoration: underline;
+}
