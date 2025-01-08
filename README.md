@@ -16,9 +16,9 @@ This repository is for the frontend development of the Land Allotment website. T
 - [ ] **Land Resources Page**: Create a detailed page showcasing available land resources with filters and search functionality.
 
 ### **Bhawana Sharma**
-- [ ] **About Us Page**: Design a page that provides an overview of the company, its vision, and mission.
+- [x] **About Us Page**: Design a page that provides an overview of the company, its vision, and mission.
 - [x] **Header**: Develop a consistent and responsive navigation bar for the website.
-- [ ] **Footer**: Implement a footer with essential links and contact details.
+- [x] **Footer**: Implement a footer with essential links and contact details.
 
 ---
 
