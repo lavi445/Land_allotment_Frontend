@@ -25,10 +25,10 @@
         <div class="bottom-header">
             <nav>
                 <ul>
-                    <li><a href="#">Home</a></li>
+                    <li><a href="home.php">Home</a></li>
                     <li><a href="#">How it Works?</a></li>
                     <li><a href="#">Apply Online</a></li>
-                    <li><a href="#">About</a></li>
+                    <li><a href="./about.php">About</a></li>
                     <li><a href="#">Contact</a></li>
                 </ul>
             </nav>
