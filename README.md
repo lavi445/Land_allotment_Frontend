@@ -7,20 +7,30 @@ This repository is for the frontend development of the Land Allotment website. T
 ---
 
 ## Tasks Assigned
-
-### **Arshpreet Kaur**
+( **Form pdf link** : https://acrobat.adobe.com/id/urn:aaid:sc:AP:6b827ef6-2edb-4290-a3c3-296017bb74fa )
+### **Arshpreet**
 - [ ] **Home Page**: Design and develop the landing page with an engaging layout and essential information.
 - [ ] **Contact Page**: Build a responsive contact page with a functional form for user queries.
+- [ ] **Form 1** : Create the database and form for that
 
-### **Drshti Rai**
+### **Drshti**
 - [ ] **Land Resources Page**: Create a detailed page showcasing available land resources with filters and search functionality.
+- [ ] **Form ** : Creat3e the database and form for that
 
-### **Bhawana Sharma**
+### **Bhawana**
 - [x] **About Us Page**: Design a page that provides an overview of the company, its vision, and mission.
 - [x] **Header**: Develop a consistent and responsive navigation bar for the website.
 - [x] **Footer**: Implement a footer with essential links and contact details.
+- [ ] **Form 2** : Create the database and form for that
 
+### **Sushrita**
+- [x] Home page / sign up & sign in 
+- [ ] **Form 5** : Create the database and form for that
+### **Muskan**
+- [x] Home page / sign up & sign in 
+- [ ] **Form 4** : Create the database and form for that 
 ---
+
 
 ## Technologies in Use (Tentative)
 
@@ -30,7 +40,6 @@ We aim to use modern tools and technologies to ensure an efficient and responsiv
   - **Vanilla CSS**: For custom styles.
   - **Tailwind CSS**: To accelerate styling with utility-first classes.
 - **JavaScript**: Add interactivity and dynamic content.
-- **React**: Build reusable components and manage the application state.
 - **PHP**: Backend integration (if required for dynamic features).
 
 ---
@@ -40,6 +49,7 @@ We aim to use modern tools and technologies to ensure an efficient and responsiv
 For inspiration and understanding the requirements:
 - **Karnataka Land Allotment**: [Visit Site](http://kiadb.in/)
 - **Google Drive for Shared Resources**: [Access Drive Folder](https://drive.google.com/drive/folders/1y_qQoeRUsGDozMSDiuIR7DBXjISrt4Fp?usp=drive_link)
+- **Form adobe LInk**: [Access Pdf](https://acrobat.adobe.com/id/urn:aaid:sc:AP:6b827ef6-2edb-4290-a3c3-296017bb74fa)
 
 ---
 
